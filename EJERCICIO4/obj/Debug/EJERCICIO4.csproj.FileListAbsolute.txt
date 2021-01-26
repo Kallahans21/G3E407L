@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.exe.config
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.exe
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.pdb
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\obj\Debug\EJERCICIO4.csprojResolveAssemblyReference.cache
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\obj\Debug\EJERCICIO4.exe
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\EJERCICIO4\EJERCICIO4\obj\Debug\EJERCICIO4.pdb
